@@ -1,0 +1,19 @@
+#social_media {
+	display: inline-block;
+	list-style: none;
+	list-style-type: none !important;
+}
+
+#social_media li {
+	list-style: none;
+	list-style-type: none !important;
+}
+
+#social_media li a {
+	list-style: none;
+	list-style-type: none !important;
+}
+
+#social_media li a img {
+	margin: 12px;
+}
